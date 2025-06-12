@@ -1,0 +1,20 @@
+import random
+fix=random.randint(1,9)
+i=1
+while i<=3:
+    guess=int(input('enter the guess number:'))
+    if fix==guess:
+        print('you won the game')
+        break
+    else:
+        print('wrong guess')
+        if fix>guess:
+            print('B2K you guess bit big')
+        else:
+            print('B2K you guess bit small')
+    i=i+1
+else:
+    print('you lost the game')
+    print('game over')
+          
+              
