@@ -1,1 +1,1 @@
-This repository showcases my logical thinking and problem-solving skills. Although I come from an ECE background, I have a strong interest in the software field and actively pursue opportunities to grow in it.this codes are helpful to increasing my logical thinking and progarmming skills.
+This repository showcases my logical thinking and problem-solving skills. Although I come from an ECE background, I have a strong interest in the software field and actively pursue opportunities to grow in it.this codes are helpful to increasing my logical thinking and programming skills.
